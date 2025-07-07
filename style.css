@@ -9329,7 +9329,7 @@ header.header-1 .main-header-wraper.main-header-wraper-2 {
   }
 }
 header.header-1 .main-header-wraper .header-menu {
-  margin-right: auto;
+  margin-right: 0px;
   padding-left: 76px !important;
 }
 @media (max-width: 1299px) {
@@ -13676,8 +13676,8 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   padding: 40px 30px 30px;
   background-size: cover;
   background-position: right;
-  -webkit-box-shadow: 0px 10px 20px rgba(4, 33, 63, 0.05);
-          box-shadow: 0px 10px 20px rgba(4, 33, 63, 0.05);
+  -webkit-box-shadow: 0px 10px 20px rgb(4 33 63 / 17%);
+          box-shadow: 0px 10px 20px rgb(4 33 63 / 17%);
 }
 .why-choose__item.why-choose__item-two a {
   font-size: 16px;
